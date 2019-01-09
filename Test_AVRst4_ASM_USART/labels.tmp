@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\FPC\!!!!\AVR\TestSPI</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+  <FILE>C:\FPC\!!!!\AVR\TestSPI\InterruptVector_Reset.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <cntU><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>32</LINE></cntU>
+  <SLA_W><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>34</LINE></SLA_W>
+  <DATA><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>35</LINE></DATA>
+  <RESET><FILE>C:\FPC\!!!!\AVR\TestSPI\InterruptVector_Reset.asm</FILE><LINE>65</LINE></RESET>
+  <WDT_off><FILE>C:\FPC\!!!!\AVR\TestSPI\InterruptVector_Reset.asm</FILE><LINE>163</LINE></WDT_off>
+  <main><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>62</LINE></main>
+  <I2C_INIT><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>107</LINE></I2C_INIT>
+  <I2C_START><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>116</LINE></I2C_START>
+  <I2C_ADDR><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>134</LINE></I2C_ADDR>
+  <I2C_DATA><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>153</LINE></I2C_DATA>
+  <I2C_STOP><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>173</LINE></I2C_STOP>
+  <wait1><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>121</LINE></wait1>
+  <ERROR><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>172</LINE></ERROR>
+  <wait2><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>141</LINE></wait2>
+  <wait3><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>160</LINE></wait3>
+  <delay><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>182</LINE></delay>
+  <exit><FILE>C:\FPC\!!!!\AVR\TestSPI\TestSPI.asm</FILE><LINE>198</LINE></exit>
+ </LABELS>
+</ASSEMBLER_INFO>

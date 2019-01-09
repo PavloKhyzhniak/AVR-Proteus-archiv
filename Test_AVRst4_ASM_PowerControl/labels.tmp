@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\FPC\Work_AVR\TestPower</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestPower\TestPower.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\FPC\Work_AVR\TestPower\TestPower.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestPower\TestPower.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>42</LINE></RESET>
+  <WDT_off><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>77</LINE></WDT_off>
+  <main0><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>107</LINE></main0>
+  <ReSetPower><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>122</LINE></ReSetPower>
+  <SetPower><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>118</LINE></SetPower>
+  <TestPower><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>125</LINE></TestPower>
+  <main1><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>132</LINE></main1>
+  <TableIndicator><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>194</LINE></TableIndicator>
+  <Delay><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>160</LINE></Delay>
+  <loop1><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>162</LINE></loop1>
+  <DelayLong><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>169</LINE></DelayLong>
+  <loopL2><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>175</LINE></loopL2>
+  <loopL1><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>177</LINE></loopL1>
+  <loopL0><FILE>C:\FPC\Work_AVR\TestPower\TestPower.asm</FILE><LINE>179</LINE></loopL0>
+ </LABELS>
+</ASSEMBLER_INFO>
