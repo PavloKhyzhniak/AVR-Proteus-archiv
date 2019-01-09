@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "F:\Work_AVR\Mega8_OutputInput\labels.tmp" -fI -W+ie -C V2E -o "F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.hex" -d "F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.obj" -e "F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.eep" -m "F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.map" "F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm"

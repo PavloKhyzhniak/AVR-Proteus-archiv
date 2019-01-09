@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\FPC\Archiv_AVR_Proteus\Test_AVRst4_ASM\labels.tmp" -fI -W+ie -C V2E -o "C:\FPC\Archiv_AVR_Proteus\Test_AVRst4_ASM\Test.hex" -d "C:\FPC\Archiv_AVR_Proteus\Test_AVRst4_ASM\Test.obj" -e "C:\FPC\Archiv_AVR_Proteus\Test_AVRst4_ASM\Test.eep" -m "C:\FPC\Archiv_AVR_Proteus\Test_AVRst4_ASM\Test.map" "C:\FPC\Archiv_AVR_Proteus\Test_AVRst4_ASM\Test.asm"

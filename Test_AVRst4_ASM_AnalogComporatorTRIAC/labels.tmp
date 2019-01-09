@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\FPC\Work_AVR\TestComporatorTRIAC</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>103</LINE></RESET>
+  <TIM0_OVF><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>85</LINE></TIM0_OVF>
+  <ANA_COMP><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>48</LINE></ANA_COMP>
+  <Power><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>42</LINE></Power>
+  <TableTRIAC><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>276</LINE></TableTRIAC>
+  <Delay><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>225</LINE></Delay>
+  <WDT_off><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>139</LINE></WDT_off>
+  <main0><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>168</LINE></main0>
+  <ReSetPower><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>182</LINE></ReSetPower>
+  <SetPower><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>179</LINE></SetPower>
+  <TestPower><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>185</LINE></TestPower>
+  <main1><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>192</LINE></main1>
+  <TableIndicator><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>269</LINE></TableIndicator>
+  <loop0><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>232</LINE></loop0>
+  <loop1><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>234</LINE></loop1>
+  <DelayLong><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>244</LINE></DelayLong>
+  <loopL2><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>250</LINE></loopL2>
+  <loopL1><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>252</LINE></loopL1>
+  <loopL0><FILE>C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm</FILE><LINE>254</LINE></loopL0>
+ </LABELS>
+</ASSEMBLER_INFO>

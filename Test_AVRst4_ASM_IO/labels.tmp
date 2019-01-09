@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>F:\Work_AVR\Mega8_OutputInput</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+  <FILE>F:\Work_AVR\Mega8_OutputInput\InterruptVector_Reset.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <AD3H><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>50</LINE></AD3H>
+  <AD3L><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>51</LINE></AD3L>
+  <U2><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>53</LINE></U2>
+  <U1><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>54</LINE></U1>
+  <U0><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>55</LINE></U0>
+  <U_L><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>57</LINE></U_L>
+  <U_H><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>58</LINE></U_H>
+  <Uu_L><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>59</LINE></Uu_L>
+  <Uu_H><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>60</LINE></Uu_H>
+  <cntU><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>62</LINE></cntU>
+  <RESET><FILE>F:\Work_AVR\Mega8_OutputInput\InterruptVector_Reset.asm</FILE><LINE>65</LINE></RESET>
+  <WDT_off><FILE>F:\Work_AVR\Mega8_OutputInput\InterruptVector_Reset.asm</FILE><LINE>163</LINE></WDT_off>
+  <main><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>110</LINE></main>
+  <delay><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>148</LINE></delay>
+  <exit><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>164</LINE></exit>
+  <TableData><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>187</LINE></TableData>
+  <TableAddress><FILE>F:\Work_AVR\Mega8_OutputInput\Mega8_OutputInput.asm</FILE><LINE>192</LINE></TableAddress>
+ </LABELS>
+</ASSEMBLER_INFO>

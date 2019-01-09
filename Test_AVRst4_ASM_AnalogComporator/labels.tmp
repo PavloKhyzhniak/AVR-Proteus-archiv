@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\FPC\Work_AVR</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\FPC\Work_AVR\TestComporator.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestComporator.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\FPC\Work_AVR\TestComporator.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestComporator.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>59</LINE></RESET>
+  <ANA_COMP><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>40</LINE></ANA_COMP>
+  <Delay><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>177</LINE></Delay>
+  <SetLed><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>47</LINE></SetLed>
+  <ReSetLed><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>52</LINE></ReSetLed>
+  <ExitComp><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>56</LINE></ExitComp>
+  <WDT_off><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>95</LINE></WDT_off>
+  <main0><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>125</LINE></main0>
+  <ReSetPower><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>139</LINE></ReSetPower>
+  <SetPower><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>136</LINE></SetPower>
+  <TestPower><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>142</LINE></TestPower>
+  <main1><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>149</LINE></main1>
+  <TableIndicator><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>214</LINE></TableIndicator>
+  <loop0><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>179</LINE></loop0>
+  <loop1><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>181</LINE></loop1>
+  <DelayLong><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>189</LINE></DelayLong>
+  <loopL2><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>195</LINE></loopL2>
+  <loopL1><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>197</LINE></loopL1>
+  <loopL0><FILE>C:\FPC\Work_AVR\TestComporator.asm</FILE><LINE>199</LINE></loopL0>
+ </LABELS>
+</ASSEMBLER_INFO>

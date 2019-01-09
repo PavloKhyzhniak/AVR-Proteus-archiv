@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\FPC\Work_AVR\TestComporatorTRIAC\labels.tmp" -fI -W+ie -o "C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.hex" -d "C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.obj" -e "C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.eep" -m "C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.map" "C:\FPC\Work_AVR\TestComporatorTRIAC\TestComporatorTRIAC.asm"
