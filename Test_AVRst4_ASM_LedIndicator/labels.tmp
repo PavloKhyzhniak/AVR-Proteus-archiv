@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\FPC\Work_AVR\TestLed</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestLed\TestLed.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\FPC\Work_AVR\TestLed\TestLed.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\FPC\Work_AVR\TestLed\TestLed.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>42</LINE></RESET>
+  <WDT_off><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>77</LINE></WDT_off>
+  <main0><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>108</LINE></main0>
+  <main1><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>121</LINE></main1>
+  <TableIndicator><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>159</LINE></TableIndicator>
+  <Delay><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>149</LINE></Delay>
+  <loop1><FILE>C:\FPC\Work_AVR\TestLed\TestLed.asm</FILE><LINE>151</LINE></loop1>
+ </LABELS>
+</ASSEMBLER_INFO>
